@@ -1,4 +1,5 @@
 *** Settings ***
+
 Resource    ../resources/saucedemo.resource
 
 *** Test Cases ***
