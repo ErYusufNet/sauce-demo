@@ -1,4 +1,3 @@
-
 *** Settings ***
 Resource    ../resources/saucedemo.resource
 
