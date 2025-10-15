@@ -1,6 +1,7 @@
 *** Settings ***
 Library    Browser
 
+
 *** Variables ***
 ${URL}    https://www.saucedemo.com/
 
