@@ -1,7 +1,6 @@
 *** Settings ***
 Resource    ../resources/saucedemo.resource
 
-
 *** Test Cases ***
 Add And Remove Item From Cart
     Open SauceDemo
