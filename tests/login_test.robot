@@ -1,6 +1,7 @@
 *** Settings ***
 Resource    ../resources/saucedemo.resource
 
+
 *** Test Cases ***
 Valid Login With Standard User
     Open SauceDemo
