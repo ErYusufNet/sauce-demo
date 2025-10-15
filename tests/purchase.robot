@@ -1,6 +1,7 @@
 *** Settings ***
 Resource    ../resources/saucedemo.resource
 Resource    ../resources/saucedemo.resource
+
 *** Test Cases ***
 Complete Purchase As Standard User
     Open SauceDemo
